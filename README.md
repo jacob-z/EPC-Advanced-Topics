@@ -16,6 +16,12 @@ July 6: www.hackthis.co.uk
 
 July 11: Trees (BST)
 
-July 13: HashMaps
+July 13: HashMaps (Linear Probing)
 
 July 18: Trees (AVL)
+
+July 20:  Proofs of Number Theory
+
+July 25:  HashMaps (Separate Chaining)
+
+July 31:  Socket Programming and Proxies
