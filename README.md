@@ -14,6 +14,8 @@ July 4: Encryption/RSA
 
 July 6: www.hackthis.co.uk
 
-July 11: Trees
+July 11: Trees (BST)
 
 July 13: HashMaps
+
+July 18: Trees (AVL)
